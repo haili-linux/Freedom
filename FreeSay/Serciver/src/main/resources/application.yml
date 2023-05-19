@@ -1,0 +1,9 @@
+server:
+  port: 35810
+
+spring:
+#   datasource:
+#          river-class-name: com.mysql.jdbc.Driver
+#          url: jdbc:mysql://localhost:3306/app1_database?useSSL=false&serverTimezone=GMT%2B8
+#          username: root
+#          password: 123456
